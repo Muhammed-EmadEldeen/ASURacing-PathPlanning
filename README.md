@@ -1,5 +1,5 @@
 # Deep Learning Path Planning
-This is the model I created for Path Planning team during my time in ASU Racing Team.
+This is the model created for Path Planning in ASU Racing Team.
 ### Procedure
 1. It starts by generating the track
 2. Creating Data Loader with the following function:
