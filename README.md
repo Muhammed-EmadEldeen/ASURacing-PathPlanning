@@ -12,6 +12,10 @@ This is the model I created for Path Planning team during my time in ASU Racing 
 3. Training the model
 4. Visualizing the output
 > The generated output is as follows:
+>
+> Where:
+>
+> Green: My Output, Red: Ground Truth, Yellow and Blue: Cones
 <img width="611" height="451" alt="image" src="https://github.com/user-attachments/assets/8511c1ab-9be4-4e9c-b6b4-ab34dd47ea1b" />
 
 
