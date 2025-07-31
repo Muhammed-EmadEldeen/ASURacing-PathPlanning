@@ -1,0 +1,4 @@
+train: "./data/train/"
+train2: "./data/train2/"
+val: "./data/val/"
+val2: "./data/val2/"

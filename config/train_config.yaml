@@ -1,0 +1,6 @@
+batch_size: 256
+epochs: 100
+learning_rate: 0.001
+device: "cuda"  # or "cpu" if CUDA is not available
+checkpoint_path: "./models/exported/model_epoch_{epoch:02d}.pt"
+model_path: "./models/exported/model.pt"
