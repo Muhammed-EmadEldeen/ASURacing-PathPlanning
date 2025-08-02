@@ -105,7 +105,8 @@ python scripts/visualize_output.py
 
 ## Results and Visualizations
 <img width="611" height="451" alt="image" src="https://github.com/user-attachments/assets/915e08e3-894f-4db3-a23f-fc42063720d0" />
-
+> Green: Model Ouput
+> Red: Ground Truth
 
 ---
 ## Download the Dataset
